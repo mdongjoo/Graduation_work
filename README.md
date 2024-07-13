@@ -80,10 +80,10 @@
 <img width="341" alt="vgg16" src="https://github.com/user-attachments/assets/ed50ac7d-7c50-48f1-a51b-38efdda991e6">
 
 **<최종 모델의 하이퍼파라미터와 과대적합을 방지하는 학습 구조>**<br>
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/0899dfaf-be50-4c21-8137-253aa2aed810></a>
+<img width="483" alt="최종 모델 학습 구조" src="https://github.com/user-attachments/assets/8cde06aa-f8a3-46d3-8dab-0b8a990a87c7">
 
 **<최종 모델의 일반화 성능 및 모델 저장>**<br>
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/1db2b380-ae39-40d9-94b9-c3785b5ec89d></a>
+<img width="332" alt="최종 모델 저장" src="https://github.com/user-attachments/assets/2645c05d-66a5-49e7-a7c7-4e07704b65e4">
 
 
   **<음성데이터 데이터분포>**<br>
@@ -93,8 +93,7 @@
 
 
 **<음성 최종 모델의 일반화 성능 및 모델 저장>**<br>
-
--사진
+<img width="402" alt="음성 모델 저장" src="https://github.com/user-attachments/assets/09cbc994-0a0f-4c8e-899d-85366c1f4abd">
 
 
 ## 📒수면장애 진단 및 방지 시스템 설계
