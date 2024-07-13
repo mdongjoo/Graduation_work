@@ -77,7 +77,7 @@
 
 
 **<vgg16 모델 전이학습>**<br>
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/ff2644c3-714d-443b-80f3-934b6941dcf6></a>
+<img width="341" alt="vgg16" src="https://github.com/user-attachments/assets/ed50ac7d-7c50-48f1-a51b-38efdda991e6">
 
 **<최종 모델의 하이퍼파라미터와 과대적합을 방지하는 학습 구조>**<br>
 <a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/0899dfaf-be50-4c21-8137-253aa2aed810></a>
