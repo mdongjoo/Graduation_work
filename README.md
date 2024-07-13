@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 # 2023년도 졸업논문
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/d9c6e0d6-f1af-403a-83a6-8c26445c0c51></a>
 
 
 ## 📁 졸업작품 소개
@@ -62,8 +61,6 @@
 
 
   **<데이터 수집>**<br>
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/84b29d08-cd1a-4859-8c7e-920af1714ea5></a>
-
 
 - 수면 자세 데이터는 보건의료 데이터로 분류되어 있어 데이터를 외부에서 수집 및 활용하는 데 어려움이 있어, 직접 데이터를 생성하였다
 -데이터 편향 문제를 방지하고자, 카메라의 각도, 피사체까지의 거리, 성별, 조명 세기, 침구 주변 환경 등을 다양하게 고려해서 데이터를 생성하였다
